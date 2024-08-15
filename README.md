@@ -56,5 +56,3 @@ The code is organized into the following sections:
 ## Notes
 - The dataset used (`mail_data.csv`) should have a 'Category' column indicating whether the mail is 'ham' or 'spam'.
 - Ensure that the necessary libraries are installed using the provided requirements file.
-
-Feel free to customize and extend this project according to your needs!
